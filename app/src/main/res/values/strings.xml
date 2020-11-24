@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="my_image">my image</string>
+    <string name="john">john</string>
+    <string name="email">email</string>
+    <string name="inbox">inbox</string>
+    <string name="starred">starred</string>
+    <string name="drafts">drafts</string>
+    <string name="sent">sent</string>
+    <string name="subheader">subheader</string>
+    <string name="trash">trash</string>
+    <string name="spam">spam</string>
+    <string name="mail">mail</string>
+    <string name="open_drawer">open navigation drawer</string>
+    <string name="close_drawer">close navigation drawer</string>
+</resources>
